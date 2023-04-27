@@ -1,0 +1,27 @@
+{
+  "name": "a04-johnschachte",
+  "version": "1.0.0",
+  "description": "api to play rps",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-JohnSchachte.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-JohnSchachte/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-JohnSchachte#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.8"
+  },
+  "directories":{
+    "lib":"lib"
+  },
+  "type":"module"
+}
